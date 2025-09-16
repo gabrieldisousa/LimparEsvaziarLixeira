@@ -1,0 +1,1 @@
+Esse arquivo é simples, a função dele é, quando ativado, bloquear a alteração do nome da lixeira e ao mesmo tempo ele esvazia a lixeira. Porém dá para alterar ele e usar apenas a função de bloquear a alteração do nome dela.
